@@ -17,7 +17,7 @@ def chunk_list(data, chunk_size):
         yield data[i:i + chunk_size]
 
 # Example usage:
-data =
+data =[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 chunks = list(chunk_list(data, 3))
 print(f"List Chunks: {chunks}")
 
