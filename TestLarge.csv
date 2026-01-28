@@ -1,0 +1,189 @@
+﻿Review,Sentiment
+"""I love this product! It works great.""",Positive
+"""This is the worst purchase I've ever made.""",Negative
+"""Highly satisfied with my experience.""",Positive
+"""I wouldn't recommend this to anyone.""",Negative
+"""Decent quality, but not what I expected.""",Negative
+"""Absolutely fantastic! Will buy again.""",Positive
+"""Not what I expected, very disappointing.""",Negative
+"""Excellent value for the price!""",Positive
+"""I'll definitely buy this again!""",Positive
+"""This product broke after one use.""",Negative
+"""Very pleased with the results!""",Positive
+"""Awful experience, never buying from here again.""",Negative
+"""Works like a charm, very happy!""",Positive
+"""Too expensive for the quality offered.""",Negative
+"""Great customer service and fast shipping!""",Positive
+"""One of the best purchases I’ve made!""",Positive
+"""Terrible quality, I want a refund.""",Negative
+"""Surprisingly good, I wasn't expecting much.""",Positive
+"""Very bad experience, won't recommend.""",Negative
+"""Superb quality and fast delivery!""",Positive
+"""This item did not match the description.""",Negative
+"""Absolutely love it! Highly recommend.""",Positive
+"""Disappointed with the performance.""",Negative
+"""Such a great find, I'm impressed!""",Positive
+"""Not worth the hype.""",Negative
+"""Perfect for my needs, I'm very satisfied.""",Positive
+"""This is a total scam.""",Negative
+"""I will never buy this again.""",Negative
+"""Outstanding product, worth every penny!""",Positive
+"""Received it damaged, very upset.""",Negative
+"""I can't believe how good this is!""",Positive
+"""Would not recommend to anyone.""",Negative
+"""Such a great experience overall!""",Positive
+"""Product didn't work as advertised.""",Negative
+"""Very useful and easy to use.""",Positive
+"""Terrible customer support.""",Negative
+"""Best purchase of the year!""",Positive
+"""Absolutely unacceptable quality.""",Negative
+"""Love the design and functionality!""",Positive
+"""Will not buy again due to bad experience.""",Negative
+"""Highly recommend to everyone!""",Positive
+"""This product is a waste of money.""",Negative
+"""Very impressed with the durability.""",Positive
+"""Poor performance, extremely disappointed.""",Negative
+"""Wonderful product, I'm so happy!""",Positive
+"""Not satisfied at all.""",Negative
+"""Great investment for anyone!""",Positive
+"""Would not buy this again.""",Negative
+"""Fantastic value, very happy!""",Positive
+"""Never using this product again.""",Negative
+"""Impressive quality and performance!""",Positive
+"""Wouldn't recommend this to a friend.""",Negative
+"""Such a lifesaver!""",Positive
+"""Completely useless.""",Negative
+"""I'll keep coming back for more!""",Positive
+"""Very unsatisfied with my purchase.""",Negative
+"""Top-notch quality and service!""",Positive
+"""Too many issues, very frustrating.""",Negative
+"""Absolutely amazing! Love it!""",Positive
+"""This is a nightmare.""",Negative
+"""Perfect for what I needed!""",Positive
+"""Not worth the hassle.""",Negative
+"""Exceptional product, highly recommend!""",Positive
+"""Very unhappy with the results.""",Negative
+"""Exactly what I was looking for!""",Positive
+"""Terrible quality, would not buy again.""",Negative
+"""Absolutely the best!""",Positive
+"""Extremely disappointing, do not buy.""",Negative
+"""Great for the price!""",Positive
+"""Never again, a complete letdown.""",Negative
+"""Superb product, very effective!""",Positive
+"""Would not recommend, poor quality.""",Negative
+"""Excellent performance, I'm thrilled!""",Positive
+"""This is not what I expected.""",Negative
+"""Very happy with my purchase!""",Positive
+"""Really bad experience, avoid this.""",Negative
+"""Great addition to my collection!""",Positive
+"""Disappointed, not what I thought it would be.""",Negative
+"""Highly recommend for everyone!""",Positive
+"""Very unsatisfactory purchase.""",Negative
+"""Absolutely worth it!""",Positive
+"""Will not buy from this seller again.""",Negative
+"""Amazing quality for the price.""",Positive
+"""I regret buying this product.""",Negative
+"""Very satisfied with my choice.""",Positive
+"""This was a total failure.""",Negative
+"""Fantastic product! Exceeded my expectations.""",Positive
+"""The product didn't last long at all.""",Negative
+"""Truly a great experience shopping here!""",Positive
+"""Not worth the time or money.""",Negative
+"""I love how this works!""",Positive
+"""So disappointed with this purchase.""",Negative
+"""Exceptional value, I'll recommend it to friends!""",Positive
+"""The product arrived late and was damaged.""",Negative
+"""I am impressed with the performance.""",Positive
+"""Never buying from this brand again.""",Negative
+"""Perfect for my needs, absolutely love it!""",Positive
+"""Very poor quality, waste of money.""",Negative
+"""This product is just fantastic!""",Positive
+"""It malfunctioned after a week.""",Negative
+"""I’m happy with the results!""",Positive
+"""Not worth it, very disappointing.""",Negative
+"""Incredible product! Highly recommended!""",Positive
+"""I was let down by this purchase.""",Negative
+"""This is a game changer!""",Positive
+"""The service was terrible.""",Negative
+"""Very happy with my decision to buy this.""",Positive
+"""Does not work as advertised.""",Negative
+"""I'm thoroughly impressed with the quality.""",Positive
+"""Extremely disappointing, won't be back.""",Negative
+"""This is just what I needed!""",Positive
+"""Awful, I would not recommend.""",Negative
+"""Best investment I've made in a long time!""",Positive
+"""It broke within the first week.""",Negative
+"""Impressive product, will purchase again!""",Positive
+"""Not good, would not buy again.""",Negative
+"""Absolutely thrilled with my purchase!""",Positive
+"""Very bad quality, a total waste.""",Negative
+"""Fantastic service and great product!""",Positive
+"""I had high hopes, but it didn't deliver.""",Negative
+"""Incredible quality, worth every penny!""",Positive
+"""Never again, I feel cheated.""",Negative
+"""This works wonders, I'm so glad I bought it!""",Positive
+"""Really poor experience overall.""",Negative
+"""Love it! Will definitely recommend to others!""",Positive
+"""This product is a total disappointment.""",Negative
+"""Great functionality, exactly what I wanted!""",Positive
+"""Terrible experience, I will not return.""",Negative
+"""This is just awesome!""",Positive
+"""Very low quality, I'm unhappy.""",Negative
+"""Satisfactory results, would buy again.""",Positive
+"""It's just not worth it.""",Negative
+"""So happy with my decision to purchase!""",Positive
+"""I will never buy from this company again.""",Negative
+"""A fantastic item, works beautifully!""",Positive
+"""I was really looking forward to this, but it's terrible.""",Negative
+"""Amazing product, my life is easier now!""",Positive
+"""Did not meet my expectations at all.""",Negative
+"""I am very pleased with this!""",Positive
+"""Would not recommend, very poor quality.""",Negative
+"""This product exceeded my expectations!""",Positive
+"""Very frustrating experience.""",Negative
+"""Highly recommend this to everyone!""",Positive
+"""What a waste of money!""",Negative
+"""Fantastic quality, will be back for more!""",Positive
+"""Very disappointing experience.""",Negative
+"""Incredible service, highly impressed!""",Positive
+"""This was a huge letdown for me.""",Negative
+"""Really good value for the price.""",Positive
+"""This was a bad choice for me.""",Negative
+"""Love this product! Works just as described.""",Positive
+"""Waste of space and money.""",Negative
+"""So good, I’ll tell my friends!""",Positive
+"""Not as expected, very underwhelming.""",Negative
+"""Fantastic quality, I’m really impressed!""",Positive
+"""Extremely disappointed in the purchase.""",Negative
+"""A real gem! Love it!""",Positive
+"""Terrible customer service.""",Negative
+"""Really happy with how this turned out.""",Positive
+"""It broke after one week of use.""",Negative
+"""I highly recommend this product!""",Positive
+"""Awful, wouldn't buy again.""",Negative
+"""Great product for the price!""",Positive
+"""This was a poor investment.""",Negative
+"""I couldn't be happier with my purchase!""",Positive
+"""Very unhappy with the overall quality.""",Negative
+"""Incredible product, will definitely buy again!""",Positive
+"""Horrible experience, do not recommend.""",Negative
+"""Fantastic results, I'm very satisfied!""",Positive
+"""Very low quality, do not buy.""",Negative
+"""So impressed with this purchase!""",Positive
+"""This was a complete mistake.""",Negative
+"""Great value for money!""",Positive
+"""Very disappointing product.""",Negative
+"""Exceptional quality and service!""",Positive
+"""This did not live up to the hype.""",Negative
+"""Absolutely love it! Will buy again!""",Positive
+"""Worst purchase ever!""",Negative
+"""I'm really happy with this!""",Positive
+"""I wish I hadn't bought this.""",Negative
+"""This is fantastic, thank you!""",Positive
+"""Really terrible experience overall.""",Negative
+"""I would recommend this to my friends.""",Positive
+"""Very poor performance.""",Negative
+"""Great addition to my life!""",Positive
+"""I'm extremely dissatisfied.""",Negative
+"""The best product I've tried!""",Positive
+"""This was a big mistake.""",Negative
