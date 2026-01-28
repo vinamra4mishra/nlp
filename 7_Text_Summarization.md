@@ -11,7 +11,7 @@ Extractive summarization selects the most important sentences from the original 
 # ==========================================
 # Step 1: Setup and Installation
 # ==========================================
-pip install sumy
+!pip install sumy
 import nltk
 # Ensure NLTK resources are available
 nltk.download('punkt')

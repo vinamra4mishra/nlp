@@ -13,6 +13,13 @@ This script uses `pandas` for data handling, `nltk` for text cleaning, and `scik
 # Install necessary libraries if not present
 # !pip install pandas nltk scikit-learn
 
+
+# ==========================================
+# Step 1: Setup and Installation
+# ==========================================
+# Install necessary libraries if not present
+!pip install pandas nltk scikit-learn
+
 import pandas as pd
 import nltk
 from nltk.corpus import stopwords
@@ -25,6 +32,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score
 # Download necessary NLTK datasets
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('punkt_tab') # Added to resolve LookupError: punkt_tab not found
 
 # ==========================================
 # Step 2: Load Data
@@ -38,11 +46,11 @@ except FileNotFoundError:
     # Creating a dummy dataset for demonstration if file is missing
     data = {
         'Review': [
-            "This product is amazing!", "I hate this item.", "Best purchase ever.", 
+            "This product is amazing!", "I hate this item.", "Best purchase ever.",
             "Terrible quality.", "Highly recommended.", "Waste of money."
         ],
         'Sentiment': [
-            "Positive", "Negative", "Positive", 
+            "Positive", "Negative", "Positive",
             "Negative", "Positive", "Negative"
         ]
     }
@@ -60,14 +68,14 @@ def preprocess_text(text):
     """
     # Convert to lowercase
     text = text.lower()
-    
+
     # Tokenize
     tokens = word_tokenize(text)
-    
+
     # Remove stop words and non-alphabetic words
     stop_words = set(stopwords.words('english'))
     tokens = [word for word in tokens if word.isalpha() and word not in stop_words]
-    
+
     return ' '.join(tokens)
 
 # Apply preprocessing to the 'Review' column
@@ -132,6 +140,8 @@ sample_predictions = model.predict(sample_reviews_vectorized)
 print("\nSample Predictions:")
 for review, sentiment in zip(sample_reviews, sample_predictions):
     print(f'Review: "{review}" - Predicted Sentiment: {sentiment}')
+
+
 ```
 
 **Output:**
