@@ -23,6 +23,19 @@ nltk.download('punkt_tab')
 # ==========================================
 # Step 2: Define Unigram Model Class
 # ==========================================
+import nltk
+from collections import defaultdict, Counter
+
+# ==========================================
+# Step 1: Setup
+# ==========================================
+# Download necessary NLTK datasets
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
+# ==========================================
+# Step 2: Define Unigram Model Class
+# ==========================================
 class UnigramModel:
     def __init__(self):
         self.word_freq = Counter()
@@ -37,7 +50,7 @@ class UnigramModel:
         """Builds the model by counting word frequencies."""
         tokens = self.preprocess(text)
         self.word_freq.update(tokens)
-        
+
         # Debug: Print word frequencies
         print("Word frequencies:")
         for word, freq in self.word_freq.items():
