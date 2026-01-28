@@ -23,6 +23,7 @@ import string
 # Download necessary NLTK resources
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('punkt_tab')
 
 # ==========================================
 # Step 2: Load Data
